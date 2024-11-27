@@ -1,0 +1,15 @@
+#p1{
+    color: blue;
+}
+
+h2{
+    color: red;
+}
+
+#p2{
+    color: green;
+}
+
+nav, .ABC, #p1{
+    background-color: black;
+}
